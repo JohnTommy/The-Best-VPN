@@ -130,10 +130,6 @@ providers:
     name: 龙猫云VPN
     source_heading: 龙猫云VPN
     url: https://so.dianlanla.com/longmaoyun
-  - id: cac-apex
-    name: CAC Apex-VPN
-    source_heading: CAC Apex-VPN
-    url: https://so.dianlanla.com/cacapex
   - id: yeshayun
     name: 夜煞云VPN
     source_heading: 夜煞云VPN

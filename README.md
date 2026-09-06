@@ -9,7 +9,7 @@
 
 翻墙梯子（俗称机场）是按流量与线路质量收费的付费代理订阅服务；与商业 VPN 相比，线路选择更灵活，是国内长期跨境访问的主流方案之一。下面这份指南覆盖 40 余款主流机场，按连接稳定性、速度、性价比、流媒体与 AI 解锁能力综合整理，并每周核对价格与跑路情况，帮你按预算和用途选定。
 
-收录：星云、闪连、Cloud-VPN、WgetCloud、大哥云、Bitz Net、星链云、SSRDOG、杨帆云、极客云、fastlink、泰山、NiceDuck、奶昔（Nexitally）、CyberGuard、白月光、狗狗加速、闪电、三月七、奶优、轻云、千速喵、青云梯、赔钱、泡泡Dog、牧牛云、Eternal Network、飞鸟、光年梯、龙猫云、CAC Apex、夜煞云、YToo歪兔、肥猫云、xgcloud、V2free、XSUS、TAG、STC-SPADES、SpeedCAT闪电猫、红杏、Riolu精灵学院、Cylink次元链接、Coffee Cloud咖啡云 等。
+收录：星云、闪连、Cloud-VPN、WgetCloud、大哥云、Bitz Net、星链云、SSRDOG、杨帆云、极客云、fastlink、泰山、NiceDuck、奶昔（Nexitally）、CyberGuard、白月光、狗狗加速、闪电、三月七、奶优、轻云、千速喵、青云梯、赔钱、泡泡Dog、牧牛云、Eternal Network、飞鸟、光年梯、龙猫云、夜煞云、YToo歪兔、肥猫云、xgcloud、V2free、XSUS、TAG、STC-SPADES、SpeedCAT闪电猫、红杏、Riolu精灵学院、Cylink次元链接、Coffee Cloud咖啡云 等。
 
 <img alt="vpn-banner" src="https://github.com/user-attachments/assets/febe6cb4-75d7-4e9d-bc18-dfc8c46b3b1c" />
 
@@ -29,7 +29,7 @@
 <details>
 <summary><b>目录：全部 46 款 · 点击展开</b></summary>
 
-[机场和 VPN 有什么区别，该选哪个](#机场和-vpn-有什么区别该选哪个) · [星云-VPN](#星云-vpn) · [闪连VPN](#闪连vpn) · [Cloud-VPN](#cloud-vpn) · [杨帆云vpn](#杨帆云vpn) · [WgetCloud VPN](#wgetcloud-vpn) · [大哥云-VPN](#大哥云-vpn) · [星链云VPN](#星链云vpn) · [极客云VPN](#极客云vpn) · [Taishan Net 泰山-VPN](#taishan-net-泰山-vpn) · [疾风云-VPN](#疾风云-vpn) · [尔湾云-VPN](#尔湾云-vpn) · [九霄云-VPN](#九霄云-vpn) · [SSRDOG-VPN](#ssrdog-vpn) · [NiceDuck-VPN](#niceduck-vpn) · [nexitally奶昔-VPN](#nexitally奶昔-vpn) · [CyberGuard-VPN](#cyberguard-vpn) · [bygcloud白月光-VPN](#bygcloud白月光-vpn) · [狗狗加速-VPN](#狗狗加速-vpn) · [闪电-VPN](#闪电-vpn) · [三月七-VPN](#三月七-vpn) · [奶优 NaiU_Net-VPN](#奶优-naiu_net-vpn) · [轻云VPN](#轻云vpn) · [千速喵-VPN](#千速喵-vpn) · [青云梯-VPN](#青云梯-vpn) · [赔钱-VPN](#赔钱-vpn) · [泡泡Dog-VPN](#泡泡dog-vpn) · [牧牛云VPN](#牧牛云vpn) · [Eternal Network-VPN](#eternal-network-vpn) · [FLYINGBIRD飞鸟VPN](#flyingbird飞鸟vpn) · [Bitz Net-VPN](#bitz-net-vpn) · [光年梯vpn](#光年梯vpn) · [龙猫云VPN](#龙猫云vpn) · [CAC Apex-VPN](#cac-apex-vpn) · [夜煞云VPN](#夜煞云vpn) · [YToo（歪兔）-VPN](#ytoo歪兔-vpn) · [肥猫云VPN](#肥猫云vpn) · [xgcloud-VPN](#xgcloud-vpn) · [V2free-VPN](#v2free-vpn) · [XSUS-VPN](#xsus-vpn) · [TAG-VPN](#tag-vpn) · [STC-SPADES-VPN](#stc-spades-vpn) · [SpeedCAT闪电猫-VPN](#speedcat闪电猫-vpn) · [红杏-VPN](#红杏-vpn) · [Riolu 精灵学院-VPN](#riolu-精灵学院-vpn) · [Cylink 次元链接-VPN](#cylink-次元链接-vpn) · [Coffee Cloud 咖啡云-VPN](#coffee-cloud-咖啡云-vpn) · [VPN推荐列表小结](#vpn推荐列表小结) · [更新日志](#更新日志)
+[机场和 VPN 有什么区别，该选哪个](#机场和-vpn-有什么区别该选哪个) · [星云-VPN](#星云-vpn) · [闪连VPN](#闪连vpn) · [Cloud-VPN](#cloud-vpn) · [杨帆云vpn](#杨帆云vpn) · [WgetCloud VPN](#wgetcloud-vpn) · [大哥云-VPN](#大哥云-vpn) · [星链云VPN](#星链云vpn) · [极客云VPN](#极客云vpn) · [Taishan Net 泰山-VPN](#taishan-net-泰山-vpn) · [疾风云-VPN](#疾风云-vpn) · [尔湾云-VPN](#尔湾云-vpn) · [九霄云-VPN](#九霄云-vpn) · [SSRDOG-VPN](#ssrdog-vpn) · [NiceDuck-VPN](#niceduck-vpn) · [nexitally奶昔-VPN](#nexitally奶昔-vpn) · [CyberGuard-VPN](#cyberguard-vpn) · [bygcloud白月光-VPN](#bygcloud白月光-vpn) · [狗狗加速-VPN](#狗狗加速-vpn) · [闪电-VPN](#闪电-vpn) · [三月七-VPN](#三月七-vpn) · [奶优 NaiU_Net-VPN](#奶优-naiu_net-vpn) · [轻云VPN](#轻云vpn) · [千速喵-VPN](#千速喵-vpn) · [青云梯-VPN](#青云梯-vpn) · [赔钱-VPN](#赔钱-vpn) · [泡泡Dog-VPN](#泡泡dog-vpn) · [牧牛云VPN](#牧牛云vpn) · [Eternal Network-VPN](#eternal-network-vpn) · [FLYINGBIRD飞鸟VPN](#flyingbird飞鸟vpn) · [Bitz Net-VPN](#bitz-net-vpn) · [光年梯vpn](#光年梯vpn) · [龙猫云VPN](#龙猫云vpn) · [夜煞云VPN](#夜煞云vpn) · [YToo（歪兔）-VPN](#ytoo歪兔-vpn) · [肥猫云VPN](#肥猫云vpn) · [xgcloud-VPN](#xgcloud-vpn) · [V2free-VPN](#v2free-vpn) · [XSUS-VPN](#xsus-vpn) · [TAG-VPN](#tag-vpn) · [STC-SPADES-VPN](#stc-spades-vpn) · [SpeedCAT闪电猫-VPN](#speedcat闪电猫-vpn) · [红杏-VPN](#红杏-vpn) · [Riolu 精灵学院-VPN](#riolu-精灵学院-vpn) · [Cylink 次元链接-VPN](#cylink-次元链接-vpn) · [Coffee Cloud 咖啡云-VPN](#coffee-cloud-咖啡云-vpn) · [VPN推荐列表小结](#vpn推荐列表小结) · [更新日志](#更新日志)
 
 </details>
 
@@ -1373,39 +1373,6 @@ AI服务支持：支持ChatGPT等AI服务24。
 | **DIY定制套餐** | ¥680.00 | 1个月 | 0GB（独享IP+独享带宽） | 无限速 | 适用于TikTok直播、跨境电商，需工单或TG私聊咨询       ---
 
 ---
-
-## CAC Apex-VPN
-
-CAC Apex-VPN 多运营商优化连接，V1节点采用直连方案构建，V2节点采用中转方案构建；节点包含美国、日本、台湾、香港、新加坡等，Netflix，HBO Max，Amazon Prime Video，Disney Now，Disney+等流媒体稳定解锁，ChatGPT等ai服务访问解锁；客户端方面支持Clash QuantumultX等通用客户端导入订阅链接；支付方式支持支付宝和微信。
-
-
-- ![image](https://github.com/user-attachments/assets/f5d07be8-b258-49a9-a877-c89cf5de1a81)
-
-👉 **[CAC Apex-VPN官网注册入口](https://so.dianlanla.com/cacapex)**
-
-
-### 🧾 **套餐对比表**
-
-| **套餐名称** | **价格**             | **流量**   | **流媒体/GPT**     | **速度上限** | **节点类型**             | **重置机制**       | **备注**                 |
-| ------------ | -------------------- | ---------- | ------------------ | ------------ | ------------------------ | ------------------ | ------------------------ |
-| **免费套餐** | ¥999 /月（免费兑换） | 每月168GB  | 奈飞、ChatGPT 解锁 | 3000Mbps     | 全球中转（**仅V0节点**） | 每月订单日自动重置 | **免费兑换码：MFDH4Y**   |
-| **V1 套餐**  | ¥4.90 /月            | 每月500GB  | 奈飞、ChatGPT 解锁 | 3000Mbps     | 全球节点                 | 每月订单日自动重置 | 入门级，大流量，性价比高 |
-| **V2 套餐**  | ¥18.00 /月           | 每月2000GB | 奈飞、ChatGPT 解锁 | 3000Mbps     | 全球 + 国内中转节点      | 每月订单日自动重置 | 高速大流量，适合重度用户 |
-
-
-
-✅ **购买建议**
-
-- **预算有限 / 轻量用户**：  
-  免费套餐（使用兑换码 **MFDH4Y**）即可满足基础访问需求，**不花钱，体验好**。
-
-- **学生党 / 性价比优先**：  
-  **V1 套餐 ¥4.9/月** 提供 500GB，价格接近免费，非常适合大多数普通用户。
-
-- **重度使用者 / 高速需求**：  
-  直接选择 **V2 套餐 ¥18/月**，大带宽、高流量、双重节点，适合长时间在线视频、游戏或远程办公。
-
-***
 
 ## 夜煞云VPN
 夜煞云VPN建立于2022年，大陆国际专线传输网络 | IPLC支持，多运营商优化连接，稳定流媒体解锁，ChatGPT 服务访问解锁。
