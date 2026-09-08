@@ -53,7 +53,6 @@
 
 👉 **[Miaoss-VPN 官网注册入口](https://miao.ac/reg?id=75158)**
 
-![MIAOSS-VPN]([https://github.com/user-attachments/assets/9eaa9c40-ab38-48ca-8235-209baa40f592])
 <img width="3083" height="962" alt="星云-VPN机场第1张" src="https://github.com/user-attachments/assets/74970cf4-d0f6-4ffb-a348-3312057137ac" />
 
 ### 主要特点包括：
