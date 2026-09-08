@@ -53,7 +53,7 @@
 
 👉 **[Miaoss-VPN 官网注册入口](https://miao.ac/reg?id=75158)**
 
-<img width="3083" height="962" alt="星云-VPN机场第1张" src="https://[github.com/JohnTommy/The-Best-VPN/blob/main/QQ%E6%88%AA%E5%9B%BE20260908203301.png]" />
+<img width="3083" height="962" alt="星云-VPN机场第1张" src="https://[github.com/JohnTommy/The-Best-VPN/blob/main/QQ%E6%88%AA%E5%9B%BE20260908203301]" />
 
 ### 主要特点包括：
 - **年付大优惠：76元600GB（约每月 6元）；116元1200GB（约每月 9元）；146元1800GB（约每月12元）；176元2400GB（约每月 14元）；226元3600GB（约每月 18元）**
