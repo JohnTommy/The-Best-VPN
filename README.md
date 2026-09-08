@@ -53,7 +53,7 @@
 
 👉 **[Miaoss-VPN 官网注册入口](https://miao.ac/reg?id=75158)**
 
-<img width="3083" height="962" alt="星云-VPN机场第1张" src="https://github.com/user-attachments/assets/74970cf4-d0f6-4ffb-a348-3312057137ac" />
+<img width="3083" height="962" alt="星云-VPN机场第1张" src="https://github.com/JohnTommy/The-Best-VPN/blob/main/QQ%E6%88%AA%E5%9B%BE20260908203301.png" />
 
 <img width="3083" height="962" alt="妙速-VPN第1张"src="https://github.com/JohnTommy/The-Best-VPN/blob/main/QQ%E6%88%AA%E5%9B%BE20260908203301.png" />
 
